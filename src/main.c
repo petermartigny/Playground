@@ -13,7 +13,7 @@
 #include <math.h>
 #include "functions.h"
 
-#define SIZE 1000
+#define SIZE 10000
 #define ALPHA 0.001
 
 int main() {
